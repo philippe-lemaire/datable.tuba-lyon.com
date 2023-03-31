@@ -28,6 +28,4 @@ enableRobotsTXT = true
   AuthorName = "Philippe Lemaire"
 
 
-[[params.ananke_socials]]
-name = "mastodon"
-url = "https://ludosphere.fr/@phil"
+
