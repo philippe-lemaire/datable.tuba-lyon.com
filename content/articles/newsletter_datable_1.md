@@ -51,7 +51,7 @@ Nous avons sélectionné quelques projets de data visualisations inspirantes.
 
 ➡ Dans le même esprit, [une autre carte isochrone créé par les data journalistes du Figaro](https://www.lefigaro.fr/fig-data/analyse-du-trafic-des-grandes-villes/), cette fois à propos du trafic routier dans les métropoles françaises. 
 
-Enfin si vous êtes davantage un créateur de dataviz qu'un consommateur, cet article recense un grand nombre d’outils de visualisation dédiés aux transports :
+Enfin si vous êtes davantage un créateur de dataviz qu'un consommateur, cet article recense un grand nombre d’outils de visualisation dédiés aux transports :
 
 ➡ [Visualizing better transportation data tools (Medium)](https://medium.com/@stevepepple/visualizing-better-transportation-data-tools-e48b8317a21c)
 
@@ -133,7 +133,7 @@ En Bretagne, la mobilité a [ses particularités régionales](https://www.cbreto
 
 ### Toulouse, Nice et Montpellier
 
-Pour La ville rose, c'est niet.
+Pour La ville rose, Nice et Montpellier, c'est niet.
 
 - [À Toulouse, les trottinettes électriques en libre-service c’est non](https://toulouse.latribune.fr/decideurs/2022-07-11/a-toulouse-les-trottinettes-electriques-en-libre-service-c-est-non-925241.html)
 - [Nice. Pourquoi ne verra-t-on pas de sitôt des trottinettes en libre-service en ville ? | Actu Nice](https://actu.fr/provence-alpes-cote-d-azur/nice_06088/nice-pourquoi-ne-verra-t-on-pas-de-sitot-des-trottinettes-en-libre-service-en-ville_50228361.html)
