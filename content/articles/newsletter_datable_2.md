@@ -13,14 +13,14 @@ Bonjour à tous,
 
 Dans cette deuxième infolettre Datable, nous avons préparé une compilation de dataviz, d’actualités, d’outils et d’articles de recherche scientifique sur la mobilité en France et dans la Métropole de Lyon.
 
-Au sommaire :
+Au sommaire :
 
-- **Dataviz :** une série très complète de dataviz sur la mobilité des Grands Parisiens, une carte isochrone des déplacements dans le Grand Lyon, et une étude du MIT sur la reconquête des rues par les piétons grâce aux données de Twitter…
+- **Dataviz :** une série très complète de dataviz sur la mobilité des Grands Parisiens, une carte isochrone des déplacements dans le Grand Lyon, et une étude du MIT sur la reconquête des rues par les piétons grâce aux données de Twitter…
 - **Vélo :** des chiffres sur les aménagements cyclables en France, un site qui compile toute l’actu des voies lyonnaises, l’arrivée des CargoVélo’v, et une étude chinoise sur l’usage du smartphone au guidon…
 - **Transports :** des transports en commun qui ne retrouvent pas tous leurs usagers suite à la crise sanitaire, et un topo sur le PAN, le Point d'Accès National aux données de transport…
 - **Nouvelles mobilités :** des trottinettes qui durent plus longtemps à Lyon, et des opérateurs qui tombent d’accord sur la meilleure manière de les réguler…
 - **Auto / Moto :** Le prix du stationnement automobile pour les finances publiques chiffré, une étude Européenne sur les nouveaux usages de la mobilité, un trafic qui baisse sous le Tunnel de la Croix-Rousse, et des bornes de recharge pour les véhicules életriques pas si faciles à dénombrer…
-- **Bilan Carbone :** : avant de vous lancer dans le Challenge Mobilité animé par la Région Auvergne Rhône Alpes, vous ferez bien un petit bilan de votre empreinte carbone ?
+- **Bilan Carbone :** : avant de vous lancer dans le Challenge Mobilité animé par la Région Auvergne Rhône Alpes, vous ferez bien un petit bilan de votre empreinte carbone ?
 
 ## Dataviz 📊
 
@@ -161,7 +161,7 @@ Pour ce faire, ils ont collecté des données sur environ un milliard de trajets
 
 ![2 rangées de voitures stationnées dans une ruelle à sens unique](https://www.tuba-lyon.com/wp-content/uploads/78aef005c6df23927358e2ea7fa8810fd6e302f8_automobiles-stationnement-rue-unique.jpg)
 
-Lors de la conférence de presse de la Fédération Nationale des Associations d'Usagers des Transports (FNAUT) du 10 mars 2023, Bruno Cordier a présenté son expertise sur le coût du stationnement automobile pour les finances publiques.
+Lors de la conférence de presse de la Fédération Nationale des Associations d'Usagers des Transports (FNAUT) du 10 mars 2023, Bruno Cordier a présenté un rapport  sur le coût du stationnement automobile pour les finances publiques.
 
 [Bruno Cordier](https://www.linkedin.com/in/bruno-cordier-b6996a48/), consultant en transports et déplacements chez ADETEC, un bureau d’études au service des politiques alternatives de déplacement, est l’auteur de l’expertise sur le coût du stationnement automobile pour les finances publiques.
 
@@ -177,11 +177,11 @@ Les chiffres principaux du stationnement automobile en France :
 - L’offre de stationnement publique contribue par ailleurs à renforcer l’usage de la voiture au détriment des modes de déplacement plus vertueux : usage contreproductif de l’argent public.
 - Au-delà de la simple question financière, se pose un véritable choix de société.
 
-➡ À lire sur [le site ne la fnaut](https://www.fnaut.fr/expertise-de-bruno-cordier-sur-le-cout-du-stationnement-automobile-pour-les-finances-publiques/)
+➡ À lire sur [le site de la fnaut](https://www.fnaut.fr/expertise-de-bruno-cordier-sur-le-cout-du-stationnement-automobile-pour-les-finances-publiques/)
 
 ### Entre préoccupations économiques et environnementales, les Européens réinventent leurs habitudes de mobilité
 
-Depuis la crise sanitaire du Covid, les Européens ont modifié leurs déplacements et leurs comportements évoluent. Une étude menée par Ipsos pour Europ Assistance a interrogé 6 000 personnes dans 6 pays d'Europe : Allemagne, Belgique, Espagne, France, Italie, Portugal.
+Depuis la crise sanitaire du COVID, les Européens ont modifié leurs déplacements et leurs comportements évoluent. Une étude menée par Ipsos pour Europ Assistance a interrogé 6 000 personnes dans 6 pays d'Europe : Allemagne, Belgique, Espagne, France, Italie, Portugal.
 
 Les constats suite à l'étude : 
 
@@ -250,4 +250,4 @@ C’est tout pour cette deuxième édition de l’Infolettre mensuelle Datable, 
 
 Le nouveau cycle s’ouvre sur le thème des données et de l’énergie.
 
-Si vous avez une actualité en lien avec le thème à partager, n’hésitez pas à contacter Philippe par email : [philippe.lemaire@tuba-lyon.com](mailto:philippe.lemaire@tuba-lyon.com).
+Si vous avez une actualité en lien avec le thème de l’énergie à partager, n’hésitez pas à contacter Philippe par email : [philippe.lemaire@tuba-lyon.com](mailto:philippe.lemaire@tuba-lyon.com).
