@@ -19,7 +19,7 @@ Au sommaire :
 - **Vélo :** des chiffres sur les aménagements cyclables en France, un site qui compile toute l’actu des voies lyonnaises, l’arrivée des CargoVélo’v, et une étude chinoise sur l’usage du smartphone au guidon…
 - **Transports :** des transports en commun qui ne retrouvent pas tous leurs usagers suite à la crise sanitaire, et un topo sur le PAN, le Point d'Accès National aux données de transport…
 - **Nouvelles mobilités :** des trottinettes qui durent plus longtemps à Lyon, et des opérateurs qui tombent d’accord sur la meilleure manière de les réguler…
-- **Auto / Moto :** Le prix du stationnement automobile pour les finances publiques chiffré, une étude Européenne sur les nouveaux usages de la mobilité, un trafic qui baisse sous le Tunnel de la Croix-Rousse, et des bornes de recharge pour les véhicules életriques pas si faciles à dénombrer…
+- **Auto / Moto :** Le prix du stationnement automobile pour les finances publiques chiffré, une étude Européenne sur les nouveaux usages de la mobilité, un trafic qui baisse sous le Tunnel de la Croix-Rousse, et des bornes de recharge pour les véhicules électriques pas si faciles à dénombrer…
 - **Bilan Carbone :** : avant de vous lancer dans le Challenge Mobilité animé par la Région Auvergne Rhône Alpes, vous ferez bien un petit bilan de votre empreinte carbone ?
 
 ## Dataviz 📊
@@ -28,7 +28,7 @@ Au sommaire :
 
 ![Image d'une tablette sur la page d'accueil du portail des mobilités](https://www.tuba-lyon.com/wp-content/uploads/apur_portail_mobilites.jpg)
 
-L’Apur, Atelier parisien d'urbanisme, publie une datavisualisation compilant plus de 50 indicateurs et données sur la mobilité des habitants du Grand Paris. Cet outil doté d’interfaces graphiques permet de visualiser les dynamiques de chacune des 131 communes et de comparer plusieurs communes ou territoires.
+L’Apur, Atelier parisien d'urbanisme, publie une data visualisation compilant plus de 50 indicateurs et données sur la mobilité des habitants du Grand Paris. Cet outil doté d’interfaces graphiques permet de visualiser les dynamiques de chacune des 131 communes et de comparer plusieurs communes ou territoires.
 
 L'application web [Portail mobilité Paris Métropole](https://www.apur.org/dataviz/portail-mobilite-paris-metropole/index2.html) présente des data portraits des différentes communes, avec des informations notamment sur les parcs de véhicules, des cartes isochrones, et un accès aux publications de l'APUR.
 
@@ -40,7 +40,7 @@ L'application web [Portail mobilité Paris Métropole](https://www.apur.org/data
 
 Plus proche de nous dans la Métropole de Lyon, on sait aussi faire des cartes isochrones. Le site [Onlymoov](https://www.onlymoov.com/), publié par la Métropole et dédié aux transports, propose [une carte isochrone](https://www.onlymoov.com/isochrone/) au départ de plusieurs points d'arrêts de transports en commun, et prenant en compte la marche, les transports en commun, le vélo, et la voiture.
 
-### Paris ralentit pour accélerer la reconquête de ses rues 
+### Paris ralentit pour accélérer la reconquête de ses rues 
 
 ![carte de Paris représentant les "slow zones"](https://www.tuba-lyon.com/wp-content/uploads/paris_slow_zone.png)
 
@@ -250,4 +250,4 @@ C’est tout pour cette deuxième édition de l’Infolettre mensuelle Datable, 
 
 Le nouveau cycle s’ouvre sur le thème des données et de l’énergie.
 
-Si vous avez une actualité en lien avec le thème de l’énergie à partager, n’hésitez pas à contacter Philippe par email : [philippe.lemaire@tuba-lyon.com](mailto:philippe.lemaire@tuba-lyon.com).
+Si vous avez une actualité en lien avec le thème de l’énergie à partager, n’hésitez pas à contacter Philippe par e-mail : [philippe.lemaire@tuba-lyon.com](mailto:philippe.lemaire@tuba-lyon.com).
