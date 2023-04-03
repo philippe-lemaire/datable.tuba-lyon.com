@@ -46,7 +46,7 @@ Plus proche de nous dans la Métropole de Lyon, on sait aussi faire des cartes i
 
 En utilisant les données de Twitter comme indicateur de l’activité humaine et piétonne dans les rues de Paris des chercheurs du MIT ont mis en évidence le résultat de la politique de zones lentes sur l’activité humaine.
 
-![la géolocalisation des tweets pour mesurer l’activité humaine dans les rues selon leur classification zone lente ou pas](https://www.tuba-lyon.com/wp-content/uploads/Capture-d’écran-du-2023-03-30-16-31-31.png)
+![la géolocalisation des tweets pour mesurer l’activité humaine dans les rues selon leur classification zone lente ou pas](https://www.tuba-lyon.com/wp-content/uploads/Capture-d’écran-du-2023-03-30-16-31-31-e1680525193734.png)
 
 Les rues dans la zone lente attirent quasiment deux fois plus de personnes que les autres, et pas seulement des riverains, contribuant ainsi à une forme de mixité.
 
@@ -94,7 +94,7 @@ Géovélo propose une application gratuite pour déterminer les meilleurs itiné
 
 ➡ [Plus de détails sur le site weelz](https://weelz.ouest-france.fr/2638-km-de-nouvelles-pistes-cyclables-ont-ete-deployes-en-france-en-2022/)
 
---
+---
 
 ## Transports en commun 🚆
 
