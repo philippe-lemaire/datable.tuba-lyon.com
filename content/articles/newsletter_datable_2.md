@@ -20,7 +20,7 @@ Au sommaire :
 - **Transports :** des transports en commun qui ne retrouvent pas tous leurs usagers suite à la crise sanitaire, et un topo sur le PAN, le Point d'Accès National aux données de transport…
 - **Nouvelles mobilités :** des trottinettes qui durent plus longtemps à Lyon, et des opérateurs qui tombent d’accord sur la meilleure manière de les réguler…
 - **Auto / Moto :** Le prix du stationnement automobile pour les finances publiques chiffré, une étude Européenne sur les nouveaux usages de la mobilité, un trafic qui baisse sous le Tunnel de la Croix-Rousse, et des bornes de recharge pour les véhicules électriques pas si faciles à dénombrer…
-- **Bilan Carbone :** : avant de vous lancer dans le Challenge Mobilité animé par la Région Auvergne Rhône Alpes, vous ferez bien un petit bilan de votre empreinte carbone ?
+- **Bilan Carbone :** : avant de vous lancer dans le Challenge Mobilité animé par la Région Auvergne Rhône Alpes, vous ferez bien un petit bilan de votre empreinte carbone ?
 
 ## Dataviz 📊
 
