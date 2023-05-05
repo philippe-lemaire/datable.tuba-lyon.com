@@ -14,7 +14,7 @@ Dans cette troisième info-lettre Datable, nous avons préparé une compilation 
 
 Au sommaire :
 
-- **Dataviz :** : des tracés des infrastructures d'énergie, une vision de la production et de la consommation d’énergie en France, à l'échelle nationale, régionale, et métropolitaine…
+- **Dataviz :** des tracés des infrastructures d'énergie, une vision de la production et de la consommation d’énergie en France, à l'échelle nationale, régionale, et métropolitaine…
 - **Open Data :** l'étude "Individualisation des frais de chauffage" de l’ADEME : le rapport et les données utilisées…
 - **Biogaz :** comprendre et mesurer la méthanisation en France…
 - **Data Science :** l'IA expliquée par EDF, un webinaire proposé par Tenerrdis, la détection d'anomalie sur les bruits du réseau de gaz, la maintenance prédictive du colmatage dans les centrales nucléaires
@@ -87,7 +87,7 @@ Ces différents livrables sont maintenant disponibles en téléchargement, ainsi
 
 Le document de synthèse de l'étude est disponible [sur la librairie en ligne de l’ADEME](https://librairie.ademe.fr/urbanisme-et-batiment/647-individualisation-des-frais-de-chauffage-quels-avantages-.html)
 
-Le jeu de données utilisé dans l’étude est également accessible en open data sur la plateforme nationale [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/donnees-de-letude-individualisation-des-frais-de-chauffage/#/resources)***
+Le jeu de données utilisé dans l’étude est également accessible en open data sur la plateforme nationale [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/donnees-de-letude-individualisation-des-frais-de-chauffage/#/resources).
 
 ---
 
