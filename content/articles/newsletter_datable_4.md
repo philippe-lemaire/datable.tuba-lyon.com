@@ -8,8 +8,6 @@ draft: False
 
 ![bannière datable](https://www.tuba-lyon.com/wp-content/uploads/DATABLE-e1679568343921.png)
 
-*(Si vous préférez lire cette info-lettre dans votre navigateur, vous pouvez la retrouver sur [datable.tuba-lyon.com](https://datable.tuba-lyon.com/articles/newsletter_datable_4/))*
-
 Bonjour à tous,
 
 Dans cette quatrième info-lettre Datable, nous avons préparé une compilation de dataviz, d’actualités, d’outils sur l’énergie en France et dans la Métropole de Lyon.
@@ -50,7 +48,7 @@ et bien d'autres visualisations.
 
 Un webinaire a été organisé le 6 février dernier.
 
-[Découvrez les résultats et les suites envisagées (pdf)](https://www.agenceore.fr/sites/default/files/medias/fichiers/2023/02/Restitution%20enqu%C3%AAte%20sur%20utilisation%20donn%C3%A9es%20%C3%A9nergie%20-%2020230206.pdf).
+➡  [Découvrez les résultats et les suites envisagées (pdf)](https://www.agenceore.fr/sites/default/files/medias/fichiers/2023/02/Restitution%20enqu%C3%AAte%20sur%20utilisation%20donn%C3%A9es%20%C3%A9nergie%20-%2020230206.pdf).
 
 ### Enquête OpenDataFrance et FNCCR sur les cas d'usage de la donnée
 
@@ -58,27 +56,27 @@ Convaincus du potentiel de transformation, de création de valeur et de nouveaux
 Cette étude répond aux besoins croissants des acteurs publics et des opérateurs de données de mieux comprendre les usages permis à partir de ces ressources.  
 Cette enquête vise aussi à favoriser la diffusion et la reproductibilité de services à impacts déployés au sein des territoires.
 
-[Répondez à l'enquête en ligne](https://www.opendatafrance.net/2023/04/12/data-impact-identifions-ensemble-les-cas-dusages-territoriaux-de-donnees/).
+➡ [Répondez à l'enquête en ligne](https://www.opendatafrance.net/2023/04/12/data-impact-identifions-ensemble-les-cas-dusages-territoriaux-de-donnees/).
 
 *(Le texte sur le formulaire indique que l'enquête est ouverte jusqu’au 15 mai, mais mes sources m’indiquent qu'on peut répondre jusqu’à mi-juillet.)*
 
 ### Les entreprises les plus émettrices appelées à divulguer leurs données environnementales
 
-L'organisation CDP, spécialiste mondiale des données environnementales, encourage 1 600 grands groupes à sauter ce pas. Ensemble, ces derniers représentent plus d'émissions de carbone que la totalité des Etats de l'Union européenne.
+L'organisation CDP, spécialiste mondiale des données environnementales, encourage 1 600 grands groupes à sauter ce pas. Ensemble, ces derniers représentent plus d'émissions de carbone que la totalité des États de l'Union européenne.
 
-[à lire sur les Échos](https://www.lesechos.fr/industrie-services/energie-environnement/climat-les-entreprises-les-plus-emettrices-appelees-a-divulguer-leurs-donnees-environnementales-1947773)
+➡ [À lire sur les Échos](https://www.lesechos.fr/industrie-services/energie-environnement/climat-les-entreprises-les-plus-emettrices-appelees-a-divulguer-leurs-donnees-environnementales-1947773)
 
 ## Nucléaire ☢️⚡
 
 ![vue de la centrale nucléaire du Bugey](https://www.tuba-lyon.com/wp-content/uploads/centrale_bugey_banner.jpg)
 
-L’énergie nucléaire, pendant longtemps décriée, mal aimée, est aujourd'hui portée par la promesse de décarbonner durablement la production d’électricité. 
+L’énergie nucléaire, pendant longtemps décriée, mal aimée, est aujourd'hui portée par la promesse de décarboner durablement la production d’électricité. 
 
 Alors de que l’Allemagne, à contre courant, a récemment arrêté ses derniers réacteurs, on constate qu’à l'échelle mondiale, l’industrie nucléaire semble se relancer partout, y compris dans les pays comme l’Italie, qui [fait un pas vers le retour au nucléaire, dont elle était sortie dans les années 80 (lemonde.fr)](https://www.lemonde.fr/economie/article/2023/05/11/l-italie-fait-un-pas-de-plus-vers-un-retour-du-nucleaire_6172872_3234.html) et le Japon, qui après avoir arrêté tous ses réacteurs suite à l’accident de Fukushima, [étend la durée de vie de ses réacteurs nucléaires (latribune.fr)](https://www.latribune.fr/entreprises-finance/industrie/energie-environnement/nucleaire-12-ans-apres-fukushima-le-japon-etend-la-duree-de-vie-de-ses-reacteurs-964096.html).
 
-En France, le recours à l’énergie nucléaire est une des composantes principales de la Stratégie Nationale Bas Carbone. D’un côté, il s’agit de maintenir le parc industriel déjà contruit, en prolongeant sa durée de vie et en  [assurant sa résilience dans un contexte de réchauffement (lemonde.fr)](https://www.lemonde.fr/economie/article/2023/05/17/nucleaire-hydraulique-edf-defend-la-resilience-des-installations-electriques-face-au-rechauffement_6173671_3234.html). De l’autre, une [accelération de la construction de nouveaux réacteurs, présentée dans un projet de loi (lemonde.fr)](https://www.lemonde.fr/economie/article/2023/05/16/nucleaire-ce-que-contient-le-projet-de-loi-d-acceleration-de-la-construction-de-nouveaux-reacteurs_6173610_3234.html)
+En France, le recours à l’énergie nucléaire est une des composantes principales de la Stratégie Nationale Bas Carbone. D’un côté, il s’agit de maintenir le parc industriel déjà construit, en prolongeant sa durée de vie et en  [assurant sa résilience dans un contexte de réchauffement (lemonde.fr)](https://www.lemonde.fr/economie/article/2023/05/17/nucleaire-hydraulique-edf-defend-la-resilience-des-installations-electriques-face-au-rechauffement_6173671_3234.html). De l’autre, une [accélération de la construction de nouveaux réacteurs, présentée dans un projet de loi (lemonde.fr)](https://www.lemonde.fr/economie/article/2023/05/16/nucleaire-ce-que-contient-le-projet-de-loi-d-acceleration-de-la-construction-de-nouveaux-reacteurs_6173610_3234.html)
 
-Par ailleurs, l’industrie nucléaire a également ses innovations et ses start-ups. À l’occasion de la sixième édition de Choose France, rendez-vous dédié à l’attractivité de la France, la start-up trinationale [Newcleo](https://www.newcleo.com/) implantée à Lyon, qui développe un réacteur nucléaire de nouvelle génération utilisant du combustible recyclé, [a annoncé un plan d’investissement majeur de 3 milliards d’euros dans l’Hexagone d’ici 2030 (Le Progrès)](https://www.leprogres.fr/economie/2023/05/15/la-start-up-newcleo-va-investir-3-milliards-d-euros-pour-le-renouveau-du-nucleaire).
+Par ailleurs, l’industrie nucléaire a également ses innovations et ses start-ups. À l’occasion de la sixième édition de Choose France, rendez-vous dédié à l’attractivité de la France, la start-up tri-nationale [Newcleo](https://www.newcleo.com/) implantée à Lyon, qui développe un réacteur nucléaire de nouvelle génération utilisant du combustible recyclé, [a annoncé un plan d’investissement majeur de 3 milliards d’euros dans l’Hexagone d’ici 2030 (Le Progrès)](https://www.leprogres.fr/economie/2023/05/15/la-start-up-newcleo-va-investir-3-milliards-d-euros-pour-le-renouveau-du-nucleaire).
 
 ## Hydrogène 💧 + ⚡ = 🔥
 
@@ -118,7 +116,7 @@ Pour de nombreux foyers, le 30 juin marquera la fin des tarifs règlementés.
 
 En France, près d’un quart des ménages consommateurs de gaz ont encore un abonnement au tarif régulé. Soit 2,55 millions de foyers (chauffage, eau chaude, cuisson), d’après un décompte d’avril. Sans compter les quelque trois millions dont les offres de marché s’indexent sur le dit tarif. Celles-ci sont proposées soit par Engie, soit par des fournisseurs alternatifs, nés de l’ouverture à la concurrence, depuis les années 2000.
 
-[Article complet à retrouver sur (lemonde.fr)](https://www.lemonde.fr/economie/article/2023/05/08/gaz-la-fin-des-tarifs-reglementes-approche-pour-de-nombreux-foyers_6172520_3234.html)
+➡  [Article complet à retrouver sur (lemonde.fr)](https://www.lemonde.fr/economie/article/2023/05/08/gaz-la-fin-des-tarifs-reglementes-approche-pour-de-nombreux-foyers_6172520_3234.html)
 
 ### L'Europe championne des économies d’énergie
 
@@ -131,7 +129,7 @@ L’hiver particulièrement doux a bien sûr joué sa part, ainsi que le report 
 ![Face à face avec les militants écologistes à l'arrivée des actionnaires de Total Énergies pour la réunion annuelle, à Paris, le 26 mai. (Stéphane Lagoutte)](https://www.tuba-lyon.com/wp-content/uploads/total_vs_militants_ecologistes.jpg)
 *Face à face avec les militants écologistes à l'arrivée des actionnaires de Total Énergies pour la réunion annuelle, à Paris, le 26 mai. (Stéphane Lagoutte)*
 
-[Total Énergies devant la justice française le 31 mai pour inaction climatique (liberation.fr)](https://www.liberation.fr/environnement/pollution/totalenergies-devant-la-justice-francaise-mercredi-pour-inaction-climatique-20230531_FHJ7LMWMGNGNDETQH5TH7CC7B4/). 
+➡  [Total Énergies devant la justice française le 31 mai pour inaction climatique (liberation.fr)](https://www.liberation.fr/environnement/pollution/totalenergies-devant-la-justice-francaise-mercredi-pour-inaction-climatique-20230531_FHJ7LMWMGNGNDETQH5TH7CC7B4/). 
 
 Le géant de l'énergie s’est retrouvé devant le tribunal de Paris le mercredi 31 mai dernier. Une coalition d'ONG et de collectivités dont la ville de Paris, a demadé à la justice de contraindre TotalEnergies d'aligner sa stratégie climatique sur l'accord de Paris. La décision des juges n'est pas attendue avant 2024 ou même 2025.
 
@@ -151,16 +149,18 @@ En un mot : Le développement des panneaux solaires sur les toits est essentiel
 
 [![capture d'écran de l'outil cadastre solaire métropolitain](https://www.tuba-lyon.com/wp-content/uploads/cadastre_solaire.jpg)](https://cadastresolaire.grandlyon.com/)
 
-Un cadastre permet d'identifier l'ensoleillement et le potentiel énergétique de chaque toit de l'agglomération lyonnaise. Associé au syndicat régional des professionnels de l’énergie solaire Aura Digital Solaire et soutenu financièrement par Enedis, un club cofondé par la Métropole rassemble différents partenaires et cherche à multiplier par 4 la production en 3 ans.
+Un cadastre permet d'identifier l'ensoleillement et le potentiel énergétique de chaque toit de l'agglomération lyonnaise. 
 
-Un reportage [France 3 Auvergne Rhône Alpes](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/carte-votre-toit-est-il-assez-expose-au-soleil-pour-produire-de-l-energie-un-cadastre-et-un-club-pour-booster-le-solaire-autour-de-lyon-2737546.html)
+Associé au syndicat régional des professionnels de l’énergie solaire Aura Digital Solaire et soutenu financièrement par Enedis, un club cofondé par la Métropole rassemble différents partenaires et cherche à multiplier par 4 la production en 3 ans.
+
+Un reportage [France 3 Auvergne Rhône Alpes](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/carte-votre-toit-est-il-assez-expose-au-soleil-pour-produire-de-l-energie-un-cadastre-et-un-club-pour-booster-le-solaire-autour-de-lyon-2737546.html).
 
 
 ### Photo-voltaïque et préservation des espaces naturels, agricoles et forestiers un conflit insoluble ?
 
 ![vue satellite représentant la parcelle de forêt menacée par le projet de parc photovoltaïque](https://www.tuba-lyon.com/wp-content/uploads/grignan-projet-de-parc-photovoltaique-904x1024-1.jpg)
 
-La préfète de la Drôme a signé début mars les arrêtés autorisant la création d’un parc photovoltaïque sur le domaine communal du bois de Janiol à Grignan.
+La préfète de la Drôme a signé début mars les arrêtés autorisant la création d’un parc photovoltaïque sur le domaine communal du bois de Janiol à Grignan.  
 [Trois associations, dont France Nature Environnement AURA](https://www.fne-aura.org/communiques/region/les-espaces-boises-ne-doivent-pas-etre-sacrifies-pour-lenergie-solaire/), déposent un recours contre le projet de parc photovoltaïque dans la forêt communale de Grignan.
 
 Le tribunal administratif [a décidé la suspension du défrichement du bois (le dauphiné libéré)](https://www.ledauphine.com/societe/2023/06/10/parc-photovoltaique-suspension-du-defrichement-du-bois-de-janiol).
@@ -168,7 +168,7 @@ Le tribunal administratif [a décidé la suspension du défrichement du bois (le
 ## Politique - Économique - Social ✊
 
 ### Planification écologique
-[Planification écologique - Élisabeth Borne affiche son volontarisme malgré un plan sans mesures concrètes](https://www.lemonde.fr/politique/article/2023/05/23/planification-ecologique-elisabeth-borne-affiche-son-volontarisme-malgre-un-plan-sans-mesures-concretes_6174414_823448.html)
+➡  [Planification écologique - Élisabeth Borne affiche son volontarisme malgré un plan sans mesures concrètes](https://www.lemonde.fr/politique/article/2023/05/23/planification-ecologique-elisabeth-borne-affiche-son-volontarisme-malgre-un-plan-sans-mesures-concretes_6174414_823448.html)
 
 Le gouvernement a présenté des objectifs chiffrés par secteur, afin de se conformer aux objectifs européens de réduction des émissions de gaz à effet de serre. Mais les leviers pour y parvenir restent à préciser.
 
@@ -178,13 +178,13 @@ Le gouvernement a présenté des objectifs chiffrés par secteur, afin de se con
 
 > Compte-tenu du rythme et de l'ampleur de l'effort à fournir dans la lutte contre le réchauffement climatique, il devient indispensable de prendre en compte dès maintenant son impact sur l'économie. La Première ministre a confié à Jean Pisani-Ferry une mission d'évaluation des impacts macroéconomiques de la transition écologique, dont France Stratégie assure le secrétariat et qui bénéficie de l'appui de l'Inspection générale des finances. Le rapport de synthèse publié aujourd’hui vise à améliorer la compréhension des impacts macroéconomiques de la transition climatique, en sorte que les décisions qui vont devoir être prises soient « le mieux informées possible ».
 
-[Retrouvez le rapport, sa version synthétique, et la conférence sur strategie.gouv.fr](https://www.strategie.gouv.fr/publications/incidences-economiques-de-laction-climat)
+➡  [Retrouvez le rapport, sa version synthétique, et la conférence sur strategie.gouv.fr](https://www.strategie.gouv.fr/publications/incidences-economiques-de-laction-climat)
 
 ### Le solutionnisme technologique, cette foi en l'innovation qui évite de penser le changement
 
 Si l’expression est récente, l’idée selon laquelle l’innovation technologique serait capable de résoudre les crises sociales ou écologiques est née avec la révolution industrielle. En occultant les causes, elle dépolitise le débat.
 
-[Une mise au point de Claire Legros, journaliste au Monde](https://www.lemonde.fr/idees/article/2023/03/22/le-solutionnisme-technologique-cette-foi-en-l-innovation-qui-evite-de-penser-le-changement_6166463_3232.html)
+➡  [Une mise au point de Claire Legros, journaliste au Monde](https://www.lemonde.fr/idees/article/2023/03/22/le-solutionnisme-technologique-cette-foi-en-l-innovation-qui-evite-de-penser-le-changement_6166463_3232.html)
 
 ### JO de Paris 2024 - L'ambitieuse promesse d’une électricité 100% renouvelable
 
@@ -192,7 +192,7 @@ Si l’expression est récente, l’idée selon laquelle l’innovation technolo
 
 Les organisateurs des Jeux olympiques et paralympiques affichent leur volonté de privilégier l’éolien et le solaire et affirment ne pas compter sur les énergies fossiles. Un engagement soumis aux aléas de la météo.
 
-[À lire sur lemonde.fr](https://www.lemonde.fr/sport/article/2023/05/24/jo-de-paris-2024-l-ambitieuse-promesse-d-une-electricite-100-renouvelable_6174633_3242.html)
+➡  [À lire sur lemonde.fr](https://www.lemonde.fr/sport/article/2023/05/24/jo-de-paris-2024-l-ambitieuse-promesse-d-une-electricite-100-renouvelable_6174633_3242.html)
 
 ### Royaume-Uni : le scandale des compteur de gaz et d’électricité prépayés
 
@@ -201,13 +201,13 @@ Les organisateurs des Jeux olympiques et paralympiques affichent leur volonté d
 
 Au moindre retard de paiement, les fournisseurs d’énergie britanniques installent de force des compteurs de gaz et d’électricité qu’il faut prépayer. Face à l’inflation, la pratique s’est envolée, jusqu’à l’intervention du régulateur.
 
-[Article complet sur lemonde.fr](https://www.lemonde.fr/economie/article/2023/04/07/au-royaume-uni-le-scandale-des-compteurs-de-gaz-et-d-electricite-prepayes_6168594_3234.html)
+➡ [Article complet sur lemonde.fr](https://www.lemonde.fr/economie/article/2023/04/07/au-royaume-uni-le-scandale-des-compteurs-de-gaz-et-d-electricite-prepayes_6168594_3234.html)
 
 ### Investissements dans les énergies renouvelables, forte augmentation des investissements
 
 Selon l’Agence internationale de l’énergie, le montant des projets liés aux énergies renouvelables (solaire ou éolienne) et aux véhicules électriques est estimé à plus de 1 600 milliards d’euros cette année, soit un bond de 24 % comparativement à 2021.
 
-[Article complet sur lemonde.fr](https://www.lemonde.fr/economie/article/2023/05/25/energies-renouvelables-les-projets-augmentent-dans-le-monde_6174754_3234.html)
+➡ [À lire sur lemonde.fr](https://www.lemonde.fr/economie/article/2023/05/25/energies-renouvelables-les-projets-augmentent-dans-le-monde_6174754_3234.html)
 
 ### Prix du nucléaire : EDF ne veut pas être sacrifié sur l’autel de la réindustrialisation de la France
 
@@ -215,6 +215,6 @@ L'électricien historique émettrait de fortes réserves sur les conclusions du 
 
 > Systématiser les contrats d'approvisionnement de très long terme des industriels électro-intensifs tricolores pour leur permettre de rester compétitifs face à leurs concurrents internationaux. C'est l'une des principales préconisations du rapport que Philippe Darmayan, ex-président d'ArcelorMittal France, a récemment rendu au gouvernement. Si le document demeure confidentiel, son auteur en a partagé les principales conclusions devant la commission des affaires économiques de l'Assemblée nationale, le 17 mai dernier. Or, selon nos informations, une grande partie de ces conclusions irrite profondément EDF.
 
-[À lire sur latribune.fr](https://www.latribune.fr/entreprises-finance/industrie/energie-environnement/prix-du-nucleaire-pour-les-industriels-edf-fustige-le-rapport-darmayan-963476.html)
+➡ [Un article de latribune.fr](https://www.latribune.fr/entreprises-finance/industrie/energie-environnement/prix-du-nucleaire-pour-les-industriels-edf-fustige-le-rapport-darmayan-963476.html)
 
 
